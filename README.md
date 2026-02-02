@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Profile Banner" width="100%" />
+  <img src="assets/banner.png" alt="Profile Banner" width="100%" height="100px" />
 </div>
 
 <h1 align="center">Hi, I'm Pradeep 👋</h1>
