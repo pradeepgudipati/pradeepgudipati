@@ -5,17 +5,20 @@
 <h1 align="center">Hi, I'm Pradeep 👋</h1>
 
 <p align="center">
-  <b>Architecting AI Systems • Enterprise Platforms • Distributed Backends</b>
+  <b>Fractional CTO • Product Engineering • AI Strategy</b>
 </p>
 
 <p align="center">
+  <a href="https://pradeepcg.com">
+    <img src="https://img.shields.io/badge/Website-pradeepcg.com-0d1117?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
   <a href="https://github.com/pradeepgudipati">
     <img src="https://img.shields.io/github/followers/pradeepgudipati?label=Followers&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://linkedin.com/in/pradeepgudipati">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="pradeepgudipati@gmail.com">
+  <a href="mailto:pradeepgudipati@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" alt="Email" />
   </a>
 </p>
@@ -31,24 +34,28 @@
 
 ## 🚀 About Me
 
-I design and build **production-grade AI platforms** and **enterprise-scale systems** that operate under real-world constraints.
-Currently architecting context-aware conversational AI systems with hybrid vector retrieval, adaptive memory pipelines, and scalable microservice backends.
+Fractional CTO and product engineering advisor with **21+ years** across AI platforms, digital banking, enterprise mobility, cloud architecture, and engineering team leadership.
 
-I also lead enterprise system design for large **manufacturing ecosystems**, translating SAP-driven procurement, costing, and raw material workflows into scalable SaaS platforms.
+I help **startups, manufacturing companies, and non-IT businesses** translate business goals into practical products, sustainable tech stacks, and engineering execution that teams can build, scale, and maintain.
+
+| 21+ years | 3M+ users | 120 engineers | 10 min releases |
+| :---: | :---: | :---: | :---: |
+| across product, architecture & delivery | on digital banking platforms supported | led across mobile, backend, QA & DevOps | enabled through CI/CD automation |
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+## 🛠️ Tech Stack
 
 ### Backend & Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
@@ -57,8 +64,7 @@ I also lead enterprise system design for large **manufacturing ecosystems**, tra
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### Frontend
@@ -70,19 +76,21 @@ I also lead enterprise system design for large **manufacturing ecosystems**, tra
 
 ---
 
-## � Contracting & Services
+## 💼 Services
 
-I specialize in building high-performance systems for complex domains. If you need an architect who understands both **code** and **business logic**, let's talk.
+Support for founders and non-IT business leaders who need the right product decisions, proven technology stacks, and maintainable execution.
 
-| Service | Description |
-| :--- | :--- |
-| **AI System Architecture** | RAG pipelines, Vector Search, LLM Integration, Custom Agents |
-| **Enterprise Backend** | Microservices (NestJS/FastAPI), High-load APIs, Event-driven logic |
-| **SaaS Development** | Full-cycle development from MVP to Scalable Product |
-| **Optimization** | Database tuning, Latency reduction, Cost modeling |
+| # | Service | Description |
+| :--- | :--- | :--- |
+| 01 | **Fractional CTO** | Roadmap, architecture, technical decisions, hiring support, delivery governance, and founder advisory |
+| 02 | **Product & MVP Engineering** | Prototype-to-launch with practical stacks chosen for speed and maintainability |
+| 03 | **AI Product Architecture** | LLM workflows, vector search, AI observability, prompt and retrieval design, and production guardrails |
+| 04 | **Manufacturing & Non-IT Modernization** | Workflow digitization, ERP integrations, analytics dashboards, and practical automation roadmaps |
+| 05 | **Engineering Team Building** | Hiring systems, tech lead mentoring, delivery cadences, and team structures that scale |
+| 06 | **Delivery Acceleration** | CI/CD, QA automation, GitOps, cloud deployment, and release reliability |
 
 > [!TIP]
-> **Open for Contracting**: Currently accepting select projects in **AI Infrastructure** and **Enterprise SaaS**.
+> **Open for Consulting**: Currently accepting select projects. [Book a CTO consultation →](https://pradeepcg.com/contact.html)
 
 <p align="center">
   <a href="mailto:pradeepgudipati@gmail.com">
@@ -92,14 +100,14 @@ I specialize in building high-performance systems for complex domains. If you ne
 
 ---
 
-## 🧠 What I'm Building
+## 🧠 Focus Areas
 
-- **Conversational AI**: Context-aware memory pipelines & hybrid retrieval.
-- **Supply Chain Engines**: SAP-integrated procurement & costing modules.
-- **Distributed Systems**: Scalable architectures using Kong, Redis, and Cloud Run.
+- **Startups**: MVP scope, architecture, hiring plans, and product roadmaps without needing a full-time CTO.
+- **Manufacturing & Operations**: Digitize Excel-heavy workflows, integrate operational systems, and build analytics dashboards.
+- **AI Systems**: Practical LLM integration, vector search, and production-grade AI that solves real business problems.
 
 ---
 
 <p align="center">
-  <i>"Building systems that connect AI intelligence with enterprise reality."</i>
+  <i>"From business requirements to reliable engineering. Built with proven tech, not passing trends."</i>
 </p>
